@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Mai
-- 👀 I’m interested in machine learning, data mining, and also full-stack development
-- 🌱 I’m currently a coop student at Wawanesa Insurance company
+- 👀 I’m interested in full-stack development, ML/DL and AI related
+- 🌱 I’m currently a coop student at ![QDoc](https://qdoc.ca/about-us/)
 - 📫 How to reach me: maith@myumanitoba.ca or danielmai122001@gmail.com
 
 <!---
